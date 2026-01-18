@@ -33,7 +33,7 @@ Before installing Python dependencies, ensure the following are installed:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <(https://github.com/Arka-Codes/CBCReportPipeline)>
    cd CBCRep
    ```
 
